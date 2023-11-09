@@ -1,4 +1,4 @@
-{-# LANGUAGE GADTs #-}
+{-# LANGUAGE GADTs, TypeOperators #-}
 -- |
 -- Module      : Data.Array.Accelerate.IO.Foreign.Internal
 -- Copyright   : [2017..2020] The Accelerate Team
